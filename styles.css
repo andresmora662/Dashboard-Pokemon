@@ -27,3 +27,7 @@ body {
     color: white;
     border-radius: 5px;
   }
+
+  .input {
+    border-radius: 7px;
+  }
