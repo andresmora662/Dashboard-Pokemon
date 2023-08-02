@@ -1,6 +1,6 @@
 # Panel Pokémon
 
-Link de pagina descargada(______________)
+Link de pagina desplegada: https://andresmora662.github.io/dashboard-Pokemon/
 
 Descripción de la estructura del proyecto 
 
