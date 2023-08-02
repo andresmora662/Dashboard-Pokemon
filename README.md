@@ -1,7 +1,8 @@
 # PanelPokémon
-# Link de pagina descargada(______________)
 
-#Descripción de la estructura del proyecto 
+Link de pagina descargada(______________)
+
+Descripción de la estructura del proyecto 
 
 El presente proyecto fue realizado en el módulo 2 del Bootcamp: Desarrollo Web Full stack brindado por el instituto virtual Ucamp.
 Se desarrolló una interfaz de usuario aplicando HTML5. Se modificó el estilo de la estructura de la interfaz aplicando selectores 
@@ -11,7 +12,7 @@ con Async-Await. Se hizo un respectivo control de versiones creando un repositor
 minimo de "commits". Además se creó el presente README dentro del repositorio que incluye la descripción  de los elementos 
 que constituyen el proyecto.
 
-#Descripcion del uso del proyecto
+Descripcion del uso del proyecto
 
 El proyecto consiste en un Dashboard o Panel que refleja información solicitada a una API, en este caso se usó la POKEAPI, 
 por ser la más conocida, gratuita y que se mantiene vigente actualmente. Los datos que se eligieron graficar en el tablero 
